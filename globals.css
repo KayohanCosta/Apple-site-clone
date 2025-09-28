@@ -1,0 +1,30 @@
+@font-face {
+    font-family: "SF Pro Text";
+    src: url("https://db.onlinewebfonts.com/t/1c45e28f8e86cc89876f003b953cc3e9.eot");
+    src: url("https://db.onlinewebfonts.com/t/1c45e28f8e86cc89876f003b953cc3e9.eot?#iefix")format("embedded-opentype"),
+    url("https://db.onlinewebfonts.com/t/1c45e28f8e86cc89876f003b953cc3e9.woff2")format("woff2"),
+    url("https://db.onlinewebfonts.com/t/1c45e28f8e86cc89876f003b953cc3e9.woff")format("woff"),
+    url("https://db.onlinewebfonts.com/t/1c45e28f8e86cc89876f003b953cc3e9.ttf")format("truetype"),
+    url("https://db.onlinewebfonts.com/t/1c45e28f8e86cc89876f003b953cc3e9.svg#SF Pro Text Regular")format("svg");
+}
+
+
+@font-face {
+    font-family: "SF Pro Icons";
+    src: url("https://db.onlinewebfonts.com/t/09f79b480eabca839b233bdde61980ac.eot");
+    src: url("https://db.onlinewebfonts.com/t/09f79b480eabca839b233bdde61980ac.eot?#iefix")format("embedded-opentype"),
+    url("https://db.onlinewebfonts.com/t/09f79b480eabca839b233bdde61980ac.woff2")format("woff2"),
+    url("https://db.onlinewebfonts.com/t/09f79b480eabca839b233bdde61980ac.woff")format("woff"),
+    url("https://db.onlinewebfonts.com/t/09f79b480eabca839b233bdde61980ac.ttf")format("truetype"),
+    url("https://db.onlinewebfonts.com/t/09f79b480eabca839b233bdde61980ac.svg#SF Pro Icons Regular")format("svg");
+}
+
+@font-face {
+    font-family: "Helvetica Neue";
+    src: url("https://db.onlinewebfonts.com/t/0d49fc455f4a8951a42daf952412a713.eot");
+    src: url("https://db.onlinewebfonts.com/t/0d49fc455f4a8951a42daf952412a713.eot?#iefix")format("embedded-opentype"),
+    url("https://db.onlinewebfonts.com/t/0d49fc455f4a8951a42daf952412a713.woff2")format("woff2"),
+    url("https://db.onlinewebfonts.com/t/0d49fc455f4a8951a42daf952412a713.woff")format("woff"),
+    url("https://db.onlinewebfonts.com/t/0d49fc455f4a8951a42daf952412a713.ttf")format("truetype"),
+    url("https://db.onlinewebfonts.com/t/0d49fc455f4a8951a42daf952412a713.svg#Helvetica Neue Regular")format("svg");
+}
