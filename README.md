@@ -29,7 +29,7 @@ Este projeto é um clone do site Apple(Brasil), desenvolvido para fins de estudo
 Sinta-se à vontade para abrir issues ou enviar pull requests!
 
 <p align="center">
-  <a href="" target="_blank">
+  <a href="https://appplebrasilclone.netlify.app/" target="_blank">
     <img src="https://img.shields.io/badge/🔴%20Live%20Preview-Acessar%20o%20site-green?style=for-the-badge&logo=google-chrome" alt="Live Preview"/>
   </a>
 </p>
